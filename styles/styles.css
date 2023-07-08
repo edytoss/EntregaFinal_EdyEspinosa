@@ -1,0 +1,27 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.tarjetas {
+  border-color: rgb(0, 0, 0);
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px 0 rgb(0, 0, 0);
+}
+
+.nav {
+  background: linear-gradient(rgb(76, 170, 233), white);
+}
+
+.pie {
+  background: linear-gradient(white, rgb(76, 170, 233));
+  height: 200px;
+}
+
+.foot {
+  padding-top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

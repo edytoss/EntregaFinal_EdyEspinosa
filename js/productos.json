@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0",
+    "marca": "Bombilla",
+    "descripcion": "Bombilla de alpaca",
+    "precio": 8500,
+    "img": "./img/bombilla.jpg"
+  },
+  {
+    "id": "1",
+    "marca": "mate",
+    "descripcion": "Mate modelo imperial",
+    "precio": 15000,
+    "img": "./img/mate.jpg"
+  },
+  {
+    "id": "2",
+    "marca": "Yerba",
+    "descripcion": "Yerba Canarias x 1Kg",
+    "precio": 2500,
+    "img": "./img/yerba.jpg"
+  },
+  {
+    "id": "3",
+    "marca": "Termo",
+    "descripcion": "Acero inoxidable por 2Lts",
+    "precio": 25000,
+    "img": "./img/termo.jpg"
+  },
+  {
+    "id": "4",
+    "marca": "Matera",
+    "descripcion": "Matera de cuero",
+    "precio": 18000,
+    "img": "./img/matera.jpg"
+  }
+]
